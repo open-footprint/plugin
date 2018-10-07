@@ -7,7 +7,7 @@ Have you read Open Footprint's Code of Conduct? By filing an Issue, you are expe
 ### Prerequisites
 
 * [ ] Put an X between the brackets on this line if you have done all of the following:
-    * Checked that your issue isn't already filed: https://github.com/issues?utf8=✓&q=is%3Aissue+user%3A
+    * Checked that your issue isn't already filed: https://github.com/johnantoni/open-footprint/issues
 
 ### Description
 
