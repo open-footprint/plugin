@@ -1,8 +1,9 @@
 # Open Footprint
 
-## Overview
-
 An open-source platform that monitors the sites you regularly visit, building up a cohesive picture of the information and potential footprint you're placing on the internet.
+
+This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
+By participating, you are expected to uphold this code. Please report unacceptable behavior to john@johnantoni.com.
 
 ## Why
 
@@ -21,9 +22,15 @@ This project aims to give the user a birds-eye view of their journey across the 
 * Start building a picture of your activity.
 * Show activity on dashboard, like Google Analytics with ability to drill-down to specific points.
 
-## Todo
+### Todo
 
 * Need to figure out how to create account locally inside the browser eco-system, via local storage.
 * Research libraries available to help build package.
 * Brainstorm any concerns, other ways of achieving the end goal.
 
+## Prerequisites
+- [Git](https://git-scm.com)
+
+## License
+
+[GNU General Public License v3.0](https://github.com/johnantoni/open-footprint/blob/master/LICENSE.TXT)
