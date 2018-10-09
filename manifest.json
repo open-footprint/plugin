@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Open Footprint",
+  "version": "1.0",
+
+  "description": "Software to manage your social presence on the web and enhance security.",
+
+  "icons": {
+    "48": "icons/logo-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.mozilla.org/*"],
+      "js": ["borderify.js"]
+    }
+  ]
+
+}
