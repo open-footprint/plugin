@@ -3,7 +3,7 @@
 
 title: Open Footprint
 url: "https://open-footprint.johnantoni.com/"
-baseurl:
+baseurl: "/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -12,7 +12,7 @@ disqus_shortname:
 logo: /siteicon.png
 description: Software to manage your social presence on the web and enhance security.
 author:
-  name:
+  name: John Griffiths
   email:
   twitter: johnantoni
 social:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: EST/UTC
 
 collections:
   staff_members:
@@ -75,12 +75,13 @@ jekyll-archives:
 
 plugins:
   - jekyll-archives
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
