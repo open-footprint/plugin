@@ -1,9 +1,12 @@
 - links:
-  - name: Blog
-    link: /blog/
+  - name: About
+    link: /about/
   - name: Our Team
     link: /team/
-  - name: Contact
+- links:
+  - name: Online Tips
+    link: /tips/
+  - name: Contact us
     link: /contact/
 - links:
   - name: Github

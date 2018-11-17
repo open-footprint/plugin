@@ -1,12 +1,16 @@
-- name: Blog
-  link: /blog
+- name: About
+  link: /about
   new_window: false
   highlight: false
 - name: Our Team
   link: /team
   new_window: false
   highlight: false
-- name: Contact
+- name: Online Tips
+  link: /online-tips
+  new_window: false
+  highlight: false
+- name: Contact us
   link: /contact
   new_window: false
   highlight: false
