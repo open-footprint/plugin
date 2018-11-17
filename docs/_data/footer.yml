@@ -6,6 +6,10 @@
   - name: Contact
     link: /contact/
 - links:
+  - name: Github
+    link: https://github.com/johnantoni/open-footprint
+    social_icon: Github
+    new_window: false
   # - name: Facebook
   #   link: https://facebook.com
   #   new_window: true
