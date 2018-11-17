@@ -3,6 +3,8 @@
     link: /blog/
   - name: About
     link: /about/
+  - name: Contact
+    link: /contact/
 - links:
   # - name: Facebook
   #   link: https://facebook.com
