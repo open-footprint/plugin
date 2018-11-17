@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Open Footprint
+title: Open-Footprint
 url: "https://open-footprint.johnantoni.com/"
 
 baseurl: ""
@@ -17,7 +17,7 @@ author:
   email:
   twitter: johnantoni
 social:
-  name: Open Footprint
+  name: Open-Footprint
   links:
     - https://github.com/johnantoni/open-footprint.git
 
