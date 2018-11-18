@@ -31,6 +31,10 @@ This project aims to give the user a birds-eye view of their journey across the 
 ## Prerequisites
 - [Git](https://git-scm.com)
 
+## Website
+
+- [open-footprint](https://open-footprint.johnantoni.com)
+
 ## License
 
 [GNU General Public License v3.0](https://github.com/johnantoni/open-footprint/blob/master/LICENSE.TXT)
