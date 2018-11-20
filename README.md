@@ -29,7 +29,29 @@ This project aims to give the user a birds-eye view of their journey across the 
 * Brainstorm any concerns, other ways of achieving the end goal.
 
 ## Prerequisites
-- [Git](https://git-scm.com)
+
+- git
+- node
+
+## Developing
+
+First install the mozilla web-ext command line to to compile the web extension:
+
+    npm install --global web-ext
+
+Next to run the extension move to the src directory:
+
+    cd src/open-footprint
+
+And build with:
+
+    web-ext build
+
+This will generate a zip file in the artifacts directory:
+
+    src/open-footprint/artifacts
+
+From there open Firefox and install the addon from the zipfile.
 
 ## Website
 
